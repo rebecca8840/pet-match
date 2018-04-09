@@ -11,10 +11,11 @@ body {
 
 .header {
 	background-color: #c4e8f8;
-	height: 220px;
+	height: 205px;
     border-bottom-color: #599f54;
     border-bottom-style: solid;
     border-bottom-width: 5px;
+    width: 100%;
 }
 
 .appNameLink {
@@ -103,7 +104,7 @@ p {
 }
 
 .text-area-center {
-	width: 40%;
+	width: 95%;
 	background-color: #c4e8f8;
 	font-family: 'Muli', sans-serif;
 	padding: 50px;
@@ -113,6 +114,7 @@ p {
     margin: -100px 0 0 -200px;
     top: 50%;
     left: 50%;
+    text-align: center;
 }
 
 .text-area-1 {
@@ -156,6 +158,7 @@ footer {
     border-top: solid;
     border-color: #599f54;
     border-width: 5px;
+    font-family: "Muli", sans-serif;
 }
 
 
