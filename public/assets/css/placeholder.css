@@ -1,4 +1,4 @@
-.modal {
+/*.modal {
 .header, .body-content {
     padding-left: 2em;
     border-style: solid;
@@ -18,7 +18,7 @@
     height: 100%;
     background-color: #c4e8f8;
     z-index: 100;
-}
+}*/
 
 .modal-content {
     display: none;
